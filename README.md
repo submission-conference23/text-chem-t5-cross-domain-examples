@@ -24,4 +24,4 @@
 
 - Table1 updated.
 
-![table](https://github.com/submission-conference23/text-chem-t5-cross-domain-examples/blob/main/assets/clm_table1.png)
+![table](https://github.com/submission-conference23/text-chem-t5-cross-domain-examples/blob/main/assets/clm_table1_updated.png)
